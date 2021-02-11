@@ -1,0 +1,17 @@
+{
+    "id": 3,
+    "abilities": [
+        {
+            "name": "Mind Reading",
+            "type": 2,
+            "limits": "must remain focused"
+        }
+    ],
+    "weaknesses": [
+        {
+            "name": "Distraction",
+            "type": 2,
+            "activation": "squirrel!!"
+        }
+    ]
+}
